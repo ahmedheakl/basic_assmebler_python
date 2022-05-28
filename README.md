@@ -3,6 +3,6 @@ Simple computer assembler using a two-pass system with python programming langua
 
 # sample input and output 
 <p>
-  <img width=400 src="https://github.com/ahmedheakl/basic_assmebler_python/blob/main/input.png">
+  <img width=400 height=400 src="https://github.com/ahmedheakl/basic_assmebler_python/blob/main/input.png">
   <img width=400 height=400 src="https://github.com/ahmedheakl/basic_assmebler_python/blob/main/output.png">
 </p>
